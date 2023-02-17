@@ -1,0 +1,13 @@
+.Tilt{
+    background:linear-gradient(to right, rgb(224, 0, 166), rgb(19, 215, 230));
+    border: 2px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+}
